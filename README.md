@@ -3,7 +3,8 @@ This is a personal diary for students of AIU to help them keep track of time.
 ## Code was written by 
 Aruuke Talantbekova,
 Aidana Zhorobekova.
-##Some screenshots
+
+## Some screenshots
 
 ![Screenshot](Screenshots/screenshot1.jpeg)
 #
